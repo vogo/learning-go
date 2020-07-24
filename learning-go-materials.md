@@ -14,4 +14,5 @@ markmeta_tags: golang
 - Go blog, https://blog.golang.org/index
 - The Go Memory Model, https://golang.org/ref/mem
 - go中文社区资料, https://gocn.vip/wiki
+- 开源Go进阶书, https://github.com/RainbowMango/GoExpertProgramming 
 - awesome go 中文, https://github.com/jobbole/awesome-go-cn
