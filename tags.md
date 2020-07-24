@@ -1,18 +1,3 @@
-# [Learning Go](http://golang.sisopipo.com)
-
-## learning-go
-* [learning go materials](/learning-go-materials), wongoo, 2020-07-24
-* [awesome go](/awesome-go), wongoo, 2019-01-16
-
-## Navigation
-[articles](/articles/)
-
-## Categories
-
- [编程语言](/category/编程语言)
- [lang](/category/lang)
-
-## Tags
 
  [golang](/tag/golang)
  [gc](/tag/gc)
